@@ -139,14 +139,14 @@ export default {
     grid-template-columns: repeat(9, 1fr);
     width: 774px;
     height: 600px;
-    padding: 15px 50px;
+    padding: 20px 28px 58px;
     margin: 0 auto;
     background-color: transparent;
-    background-image: url('../assets/background3.png');
+    background-image: url('../assets/background.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    box-shadow: 1px 1px 20px 10px #cbc86895;
+    box-shadow: 1px 1px 20px 10px #9291ae95;
 }
 
 .cell {
@@ -156,17 +156,17 @@ export default {
 
 .chip {
     cursor: pointer;
-    width: 65px;
-    height: 65px;
+    width: 35px;
+    height: 35px;
     background-color: rgb(247, 234, 234);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    border: 2px solid #83863476;
-    box-shadow: 1px 1px 20px 10px #83863476;
+    border: 2px solid #9291ae95;
+    box-shadow: 1px 1px 20px 10px #9291ae95;
     border-radius: 50%;
     position: absolute;
-    top: 50%;
+    top: 35%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
