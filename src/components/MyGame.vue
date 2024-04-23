@@ -151,7 +151,7 @@
     grid-template-columns: repeat(9, 1fr);
     width: 774px;
     height: 600px;
-    padding: 20px 28px 58px;
+    padding: 19px 51px 18px;
     margin: 0 auto;
     background-color: transparent;
     background-image: url("../assets/background3.png");
