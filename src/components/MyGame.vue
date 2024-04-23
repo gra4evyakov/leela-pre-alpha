@@ -154,7 +154,7 @@
     padding: 20px 28px 58px;
     margin: 0 auto;
     background-color: transparent;
-    background-image: url("../assets/background3.jpg");
+    background-image: url("../assets/background3.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
